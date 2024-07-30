@@ -200,6 +200,7 @@ update_scale = false
 
 [node name="Camera2D" type="Camera2D" parent="."]
 position = Vector2(620, 331)
+scale = Vector2(2.04, 1)
 
 [node name="DifficultySystem" type="Node" parent="." node_paths=PackedStringArray("mob_spawner")]
 script = ExtResource("17_1lsu4")
@@ -219,842 +220,149 @@ position = Vector2(98, -2)
 
 [node name="Tree" parent="Trees/Tree" instance=ExtResource("19_1i7c8")]
 position = Vector2(98, -2)
-rotation = 0.261799
 
 [node name="Tree" parent="Trees/Tree/Tree" instance=ExtResource("19_1i7c8")]
 position = Vector2(98, -2)
-rotation = -0.261799
 
 [node name="Tree" parent="Trees/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
 position = Vector2(98, -2)
 
 [node name="Tree" parent="Trees/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
 position = Vector2(98, -2)
-rotation = 0.261799
 
 [node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.523599
+position = Vector2(-200, 98)
 
 [node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
+position = Vector2(2, 85)
 
 [node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
+position = Vector2(-1, 65)
 
 [node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
+position = Vector2(377, -234)
 
 [node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
+position = Vector2(2, 90)
 
 [node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
+position = Vector2(4, 82)
 
 [node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
+position = Vector2(-1, 89)
 
 [node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
+position = Vector2(68, -133)
 
 [node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
 position = Vector2(98, -2)
-rotation = 0.261799
 
 [node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
+position = Vector2(59, -125)
 
 [node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
+position = Vector2(6, 75)
 
 [node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
+position = Vector2(-1, 97)
 
 [node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
+position = Vector2(12, 107)
 
 [node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
+position = Vector2(143, -7)
 
 [node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
+position = Vector2(106, -256)
 
 [node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
+position = Vector2(-26, 55)
 
 [node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
+position = Vector2(-21, 69)
 
 [node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
+position = Vector2(-31, 72)
 
-[node name="Tree2" parent="Trees/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(142, -175)
 
-[node name="Tree" parent="Trees/Tree/Tree2" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(26, 79)
 
-[node name="Tree" parent="Trees/Tree/Tree2/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(21, 87)
 
-[node name="Tree" parent="Trees/Tree/Tree2/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(16, 90)
 
-[node name="Tree" parent="Trees/Tree/Tree2/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(-105, -84)
 
-[node name="Tree" parent="Trees/Tree/Tree2/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.523599
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(243, 64)
 
-[node name="Tree" parent="Trees/Tree/Tree2/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(41, -69)
 
-[node name="Tree" parent="Trees/Tree/Tree2/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(55, -88)
 
-[node name="Tree" parent="Trees/Tree/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(43, -93)
 
-[node name="Tree" parent="Trees/Tree/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(-176, -26)
 
-[node name="Tree" parent="Trees/Tree/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(49, 72)
 
-[node name="Tree" parent="Trees/Tree/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(108, 138)
 
-[node name="Tree" parent="Trees/Tree/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(59, 79)
 
-[node name="Tree" parent="Trees/Tree/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(206, -293)
 
-[node name="Tree" parent="Trees/Tree/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(-42, 32)
 
-[node name="Tree" parent="Trees/Tree/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(-30, 55)
 
-[node name="Tree" parent="Trees/Tree/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(-20, 70)
 
-[node name="Tree" parent="Trees/Tree/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(12, 60)
 
-[node name="Tree" parent="Trees/Tree/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(27, 75)
 
-[node name="Tree" parent="Trees/Tree/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(69, 15)
 
-[node name="Tree" parent="Trees/Tree/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(71, -14)
 
-[node name="Tree" parent="Trees/Tree/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(37, -63)
 
-[node name="Tree" parent="Trees/Tree/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(21, -88)
 
-[node name="Tree2" parent="Trees/Tree/Tree2" instance=ExtResource("19_1i7c8")]
-position = Vector2(-470, 57)
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(-25, -58)
 
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(-38, -57)
 
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.523599
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree2" parent="Trees/Tree/Tree2/Tree2" instance=ExtResource("19_1i7c8")]
-position = Vector2(147, 51)
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.523599
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree2" parent="Trees/Tree/Tree2/Tree2/Tree2" instance=ExtResource("19_1i7c8")]
-position = Vector2(-125, 24)
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree2" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree2/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree2/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.523599
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
+[node name="Tree" parent="Trees/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
+position = Vector2(-38, -34)
 
 [node name="Tree62" parent="Trees" instance=ExtResource("19_1i7c8")]
 position = Vector2(-269, 2074)
-
-[node name="Tree2" parent="Trees" instance=ExtResource("19_1i7c8")]
-position = Vector2(288, 198)
-
-[node name="Tree" parent="Trees/Tree2" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.523599
-
-[node name="Tree" parent="Trees/Tree2/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree2" parent="Trees/Tree2" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.523599
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree2" parent="Trees/Tree2/Tree2" instance=ExtResource("19_1i7c8")]
-position = Vector2(-117, 62)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.523599
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree2" parent="Trees/Tree2/Tree2/Tree2" instance=ExtResource("19_1i7c8")]
-position = Vector2(147, 51)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.523599
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree2" parent="Trees/Tree2/Tree2/Tree2/Tree2" instance=ExtResource("19_1i7c8")]
-position = Vector2(-125, 24)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree2" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree2/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree2/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.523599
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = -0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
-rotation = 0.261799
-
-[node name="Tree" parent="Trees/Tree2/Tree2/Tree2/Tree2/Tree2/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree/Tree" instance=ExtResource("19_1i7c8")]
-position = Vector2(98, -2)
 
 [node name="GameUI" parent="." instance=ExtResource("20_i41vy")]
